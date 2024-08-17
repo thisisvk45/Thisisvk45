@@ -1,53 +1,74 @@
-<h1 align="center">Hello Guys! I'm Vikas Kumar! 👋</h1>
+<h1 align="center">👋 Hello, I'm Vikas Kumar!</h1>
 
 <div align="center">
-<a href="https://github.com/thisisvk45">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360 alt="Vikas's GitHub Profile"/>
-</a>
+  <a href="https://github.com/thisisvk45">
+    <img src="https://github.com/thisisvk45/banner.png" alt="Vikas Kumar's GitHub Profile Banner" width="600">
+  </a>
 </div>
 
-<h4 align="center">
-  <b><a href="https://www.linkedin.com/in/vikas-kumar45/">LinkedIn</a></b>
-  •
-  <b><a href="https://github.com/thisisvk45">GitHub</a></b>
-  •
-  <b><a href="https://medium.com/@imvk45">Medium Blog</a></b>
-  •
-  <a href="mailto:vikas.kumar1@plaksha.edu.in">Email</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h4>
+<p align="center">
+  <b>Data Scientist | Machine Learning Enthusiast | Innovator</b>
+</p>
 
-## Introduction
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikas-kumar45/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/thisisvk45"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://medium.com/@imvk45"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:vikas.kumar1@plaksha.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-I'm passionate about data science, machine learning, and deep learning. I love to work on innovative projects that can bring change and add value. I have worked on various projects and internships in these fields, enhancing my skills and knowledge. 
+---
 
-## Projects
+## 🚀 About Me
 
-Here are some projects and visualizations that showcase my work:
+I'm a passionate **Data Scientist** with a love for **Machine Learning** and **Deep Learning**. My journey has been fueled by curiosity and a drive to solve real-world problems through data-driven solutions. I enjoy transforming complex data into actionable insights and innovative products.
 
-| Project Name | Project Description |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />| Description of the project and the technologies used. |
+---
 
-| Data Science Visualization | Machine Learning Model Performance |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|
+## 🌟 Featured Projects
 
-## Contact Me
+Here are a few projects I'm proud of:
 
-<a href="https://www.linkedin.com/in/vikas-kumar45/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+- **[Project Name](#)**: Brief description of the project.
+- **[Another Project](#)**: Brief description of another project.
+- **[Yet Another Project](#)**: Brief description of yet another project.
 
-<a href="https://github.com/thisisvk45" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+---
 
-<a href="https://medium.com/@imvk45" target="_blank">
-<img src=https://img.shields.io/badge/medium-%2300acee.svg?color=000000&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
+## 🎨 Choose Your Theme
 
-<a href="mailto:vikas.kumar1@plaksha.edu.in" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
+> **Note:** You can view this README in different themes by using the dropdown menu below. Choose the theme that suits your style!
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Light-FFFFFF?style=for-the-badge" alt="Light Theme">
+  <img src="https://img.shields.io/badge/Theme-Dark-181717?style=for-the-badge" alt="Dark Theme">
+  <img src="https://img.shields.io/badge/Theme-Dracula-282A36?style=for-the-badge" alt="Dracula Theme">
+</p>
+
+---
+
+## 🧠 Dynamic Insights (Powered by GPT)
+
+> **Imagine this:** A section of your README that updates itself based on the latest trends, technologies, or even your own work! Although this is a creative concept, here’s a placeholder for what it could look like:
+
+**Today's Insight:**  
+_"Did you know that transformer models like GPT-4 are revolutionizing natural language processing, enabling more accurate and context-aware language understanding?"_
+
+> *This section would automatically fetch and display interesting data science facts, trends, or project updates using a GPT model integrated with your GitHub profile.*
+
+---
+
+## 📫 How to Reach Me
+
+I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to connect with me through:
+
+- **LinkedIn**: [linkedin.com/in/vikas-kumar45](https://www.linkedin.com/in/vikas-kumar45/)
+- **GitHub**: [github.com/thisisvk45](https://github.com/thisisvk45)
+- **Medium**: [medium.com/@imvk45](https://medium.com/@imvk45)
+- **Email**: vikas.kumar1@plaksha.edu.in
+
+---
+
+<p align="center">
+  <img src="https://github.com/thisisvk45/stats.svg" alt="Vikas Kumar's GitHub Stats">
+</p>
