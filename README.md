@@ -18,15 +18,7 @@ I'm a **Data Scientist** with a passion for **Machine Learning** and **Deep Lear
 
 ---
 
-## 🌟 Featured Projects
 
-Here are a few projects I'm proud of:
-
-- **[Project 1](#)**: Brief description.
-- **[Project 2](#)**: Brief description.
-- **[Project 3](#)**: Brief description.
-
----
 
 ## 📫 How to Reach Me
 
