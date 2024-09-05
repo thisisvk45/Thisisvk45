@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Data Scientist** with a passion for **Machine Learning** and **Deep Learning**. I love solving real-world problems through data-driven solutions.
+I'm a budding **Data Scientist** with a passion for **Machine Learning** and **Deep Learning**. I love solving real-world problems through data-driven solutions.
 
 ---
 
