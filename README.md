@@ -26,4 +26,5 @@ I'm open to collaboration and new ideas. Connect with me on:
 
 - **LinkedIn**: [linkedin.com/in/vikas-kumar45](https://www.linkedin.com/in/vikas-kumar45/)
 - **GitHub**: [github.com/thisisvk45](https://github.com/thisisvk45)
-- **Email**: vikas.kumar1@plaksha.edu.in
+- **Email**: kumav25@wfu.edu
+  
