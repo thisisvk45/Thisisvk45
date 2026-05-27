@@ -22,7 +22,6 @@
 
 ```text
 ~ AI Engineer        @ Wake Forest School of Business
-~ Founder            @ SViam.in
 ~ Founding Engineer  @ MAP (Music Advocacy Project)
 
 Previously
